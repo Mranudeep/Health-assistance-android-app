@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pushups">PushUps</string>
+    <string name="repeat_2_time">Repeat 2 Time</string>
+    <string name="_01_00_min">01.00 MIN</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+</resources>
